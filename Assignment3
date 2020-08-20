@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment</title>
+</head>
+<body>
+    <h1>My Favourite Marvel Movies</h1>
+    <ol types="L">
+        <li><b>Phase One</b></li>
+        <ul type="square">
+            <li>Iron Man</li>
+            <ol type="a">
+                <li>Release Date</li>
+                <ul type="circle">
+                    May 2,2008
+                </ul>
+                <li>Director(s)</li>
+                <ol type="i">
+                    <li>Jon Favreau</li>
+                    <ul type="square">
+                        <li>Actor</li>
+                        <ul type="circle">
+                            <li>1992-present</li>
+                        </ul>
+                        <li>Director</li>
+                    </ul>
+                </ol>
+                <li>Producer(s)</li>
+                <ol type="1" reversed>
+                    <li>Avi Arad</li>
+                    <li>Kevin Feige</li>
+                </ol>
+            </ol>
+            <li>The Incredible Hulk</li>
+            <ol type="a">
+                <li>Release Date:</li>
+                <ul type="circle">
+                    <li>June 13,2008</li>
+                </ul>
+                <li>Director(s)</li>
+                <ol type="i">
+                    <li>Louis Leterrier</li>
+                    <ul type="square">
+                        <li>Director</li>
+                        <ul type="circle">
+                            <li>2002-present</li>
+                        </ul>
+                        <li>Producer</li>
+                    </ul>
+                </ol>
+                <li>Producer(s):</li>
+                <ol type="1" reversed>
+                    <li>Gale Anne Hurd</li>
+                    <li>Avi Arad</li>
+                    <li>Kevin Feige</li>
+                </ol>
+            </ol>
+            <li>Iron Man 2</li>
+            <ol type="a">
+                <li>Release Date:</li>
+                <ul type="circle">
+                    <li>May 7,2010</li>
+                </ul>
+                <li>Director(s):</li>
+                <ol type="i">
+                    <li>Jon Favreau</li>
+                    <ul type="square">
+                        <li>Actor</li>
+                        <ul type="circle">
+                            <li>1992-present</li>
+                            <br>
+                            <ol type="1">
+                                <li>About him</li>
+                                As an actor,Favreau appered in the films Rudy,Swingers
+                            </ol>
+                        </ul>
+                        <li>Director</li>
+                    </ul>
+                </ol>
+                <li>Producer(s)</li>
+                <ol type="1">
+                    <li>Kevin Feige</li>
+                </ol>
+            </ol>
+        </ul>
+        <li><b>Phase two</b></li>
+        <ul type="square">
+            <li>Iron Man 3</li>
+            <ol type="1">
+            <li>Release Date:</li>
+            <ul type="circle">
+                <li>May 3,2013</li>
+            </ul>
+            <li>Director(s)</li>
+            <ol type="1">
+                <li>Shane Black</li>
+            </ol>
+            </ol>
+            <li>Thor:The Dark World</li>
+            <ol type="1">
+                <li>Release Date:</li>
+                <ul type="square">
+                    <li>November 8,2013</li>
+                </ul>
+                <li>Director(s):</li>
+                <ol type="1">
+                    <li>Alan Taylor</li>
+                </ol>
+            </ol>
+        </ul>
+        <li><b>Phase Three</b></li>
+        <ol type="A">
+            <li>Captain Marvel</li>
+            <li>Avengers:Endgames</li>
+        </ol>
+    </ol>
+    <h1>Upcoming Phase Four</h1>
+    <dl><b>Black Widow</b></dl>
+    Black Widow is an American superhero film based on Marvel Comics character
+</body>
+</html>
