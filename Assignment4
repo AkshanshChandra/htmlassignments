@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+<body>
+    <h2>Coding Blocks jr Web Development</h2>
+    <p>Below we have differnt sections. In each section links have been used.</p>
+    <h3 id="Section1">Section 1</h3>
+    <a href="https://www.youtube.com/?gl=IN&tab=r1" target="blank">Youtube</a>
+    <br>
+    <a href="https://jr.codingblocks.com/" target="blank">Coding Blocks Jr</a>
+    <br>
+    <a href="https://github.com/" target="blank">Github</a>
+    <br>
+    <a href="https://www.google.com/" target="blank">Google</a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=nKVTzzr7EVo" target="blank">Educational Cartoons</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h3 id="Section2">Section 2</h3>
+    <p>This section consists of links through which we can directly call a particular organization</p>
+    <a href="tel:09818048398">Medical Helpline Number</a>
+    <br>
+    <a href="tel:18008899999">Jio Customer Care Number</a>
+    <br>
+    <a href="tel:18002744504">Coding Blocks Helpline Number</a>
+    <br>
+    <a href="tel:1075">COVID-19 Helpline Number(Tollfree)</a>
+    <br>
+    <a href="tel:+911123978046">COVID-19 Helpline Number</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h3 id="Section3">Section 3</h3>
+    <p>The section consists of the links through which we can directly mail a particular organization</p>
+    <br>
+    <a href="mailto:admissions@codingblocks.com">Coding Blocks Email</a>
+    <br>
+    <a href="mailto:info@sbi.com">SBI email</a>
+    <br>
+    <a href="mailto:support@vidyamandir.com">Vidyamandir Classes Email</a>
+    <br>
+    
+
+</body>
+</html>
